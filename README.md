@@ -1,6 +1,6 @@
 # Hi, I'm Subrahmanya Kumar
 
-AI-Driven Quality Engineering Leader | AI Lead | QA Manager | Performance Engineering
+AI Enthusiast
 
 Hyderabad, Telangana, India · [LinkedIn](https://www.linkedin.com/in/kumarbls) · [blskumar@outlook.in](mailto:blskumar@outlook.in)
 
