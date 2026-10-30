@@ -1,4 +1,8 @@
-# Hi there
+# Hi, I'm Subrahmanya Kumar
+
+AI-Driven Quality Engineering Leader | AI Lead | QA Manager | Performance Engineering
+
+Hyderabad, Telangana, India · [LinkedIn](https://www.linkedin.com/in/kumarbls)
 
 I build tools for testing AI-written software.
 I focus on one question: how do you know which AI-generated tests to trust?
